@@ -1,5 +1,5 @@
 # PongGame
-Rode o executável para jogar uma versão em python do antigo jogo Pong, ou confira o código por trás do programa nos arquivos que acompanham o jogo.
+Essa é uma versão em python do antigo jogo Pong.
 
 O lado esquerdo é controlado pelas teclas W e S, enquanto o lado direito pode ser controlado pelas setas do teclado.
 
